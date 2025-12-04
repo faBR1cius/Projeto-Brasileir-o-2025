@@ -1,5 +1,5 @@
-# Projeto-Brasileir-o-2025
-Projeto Final - Linguagens de Programação para Internet
+# Projeto-Brasileirão-2025
+
 
 # Projeto Brasileirão 2025 - Front-end e Back-end
 
